@@ -2,8 +2,8 @@ application =
 {
 	content = 
 	{ 
-		width = 320,
-		height = 480, 
+		width = auto,
+		height = auto, 
 		scale = "letterbox"
 	}
 }
